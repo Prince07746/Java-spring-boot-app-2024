@@ -1,9 +1,9 @@
-# Java-spring-boot-app-2024
+#### Java-spring-boot-app-2024
 Certainly! Here's a README file that outlines all the steps you’ve followed to set up the Spring Boot project:
 
 ---
 
-# MySpring Project - Spring Boot Setup
+## MySpring Project - Spring Boot Setup
 
 This project is a basic Spring Boot application that demonstrates setting up a Spring Boot project from scratch, with a simple REST endpoint. Below are the steps followed to create this project.
 
